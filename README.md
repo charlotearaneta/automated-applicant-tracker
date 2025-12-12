@@ -98,11 +98,14 @@ My goal is to make hiring **faster, fairer, and more data-driven**.
 
 ---
 
-## 📬 Contact
+
+## 📬 Contact  
 
 Created by **Charlote Araneta**  
-🔗 Portfolio: https://charlotearaneta.github.io  
-🔗 LinkedIn: https://www.linkedin.com/in/charlotearaneta/  
+
+🔗 **Portfolio**: https://charlotearaneta.github.io  
+
+🔗 **LinkedIn**: https://www.linkedin.com/in/charlotearaneta/
 
 ---
 
