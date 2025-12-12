@@ -69,6 +69,26 @@ Maria Santos,maria@example.com,IT_SUPPORT,resume_maria.txt,New
 
 ```
 
+## 📤 Output Example (AI Evaluation JSON)
+
+```json
+{
+  "name": "Juan Dela Cruz",
+  "job_id": "IT_SUPPORT",
+  "score": 82,
+  "summary": "Strong technical foundation with relevant troubleshooting experience...",
+  "strengths": ["IT Support Certificate", "Customer service", "Networking basics"],
+  "gaps": ["Limited enterprise systems experience"],
+  "recommendation": "Good Fit",
+  "status": "Shortlisted"
+}
+
+```
+
+
+---
+
+
 ## 🧠 How It Works
 
 ### **1. Load applicants**  
