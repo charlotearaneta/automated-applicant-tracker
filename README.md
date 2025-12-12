@@ -29,6 +29,68 @@ This transforms manual applicant tracking into a simple, repeatable, automated w
 
 ---
 
+## 🚀 Features
+
+### ✔ Bulk Applicant Processing  
+Processes an entire applicant list with one command.
+
+### ✔ Automated AI Summary  
+Generates structured evaluation output including:  
+- Match score  
+- Summary  
+- Strengths  
+- Gaps  
+- Recommendation  
+
+### ✔ Status Updates  
+Automatic status assignment based on score thresholds:  
+- **Shortlisted**  
+- **Screened**  
+- **Rejected**  
+
+### ✔ CSV + JSON Output  
+Updated applicant data is saved for easy reporting and analysis.
+
+### ✔ Modular & Extendable  
+You can plug this into:  
+- ClickUp  
+- Notion  
+- Google Sheets  
+- ATS systems  
+
+---
+
+## 🧠 How It Works
+
+### **1. Load applicants**  
+Reads the `applicants.csv` file, including:  
+- Name  
+- Email  
+- Role applied for  
+- Resume file  
+- Status  
+
+### **2. Match to job description**  
+Loads the correct job description based on `job_id`.
+
+### **3. AI Screening Engine**  
+Uses OpenAI GPT models to evaluate the candidate résumé.
+
+### **4. Update Applicant Status**  
+Example logic:  
+- Score ≥ 80 → **Shortlisted**  
+- Score 60–79 → **Screened**  
+- Score < 60 → **Rejected**  
+
+### **5. Save Outputs**  
+Stores results into:  
+- `results/applicant_results.json`  
+- Updated CSV  
+
+
+---
+
+
 ## 🛠 Tech Stack
 
 - **Python**  
