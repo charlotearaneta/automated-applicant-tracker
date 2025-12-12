@@ -60,6 +60,15 @@ You can plug this into:
 
 ---
 
+## 📥 Input Example (applicants.csv)
+
+```csv
+name,email,job_id,resume_file,status
+Juan Dela Cruz,juan@example.com,IT_SUPPORT,resume_juan.txt,New
+Maria Santos,maria@example.com,IT_SUPPORT,resume_maria.txt,New
+
+```
+
 ## 🧠 How It Works
 
 ### **1. Load applicants**  
