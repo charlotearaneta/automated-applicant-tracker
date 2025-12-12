@@ -26,9 +26,23 @@ The system automatically:
 
 This transforms manual applicant tracking into a simple, repeatable, automated workflow.
 
+
+---
+
+## 🛠 Tech Stack
+
+- **Python**  
+- **OpenAI GPT Models**  
+- **Pandas** (optional for CSV processing)  
+- **python-dotenv** for environment variables  
+- **JSON / CSV** for data tracking  
+
+
+---
+
+
 ## 🖼 Demo
 
-*(You will add these later after uploading assets.)*
 
 - Applicant CSV sample  
 - Résumé file example  
