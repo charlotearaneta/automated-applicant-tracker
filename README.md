@@ -29,6 +29,34 @@ This transforms manual applicant tracking into a simple, repeatable, automated w
 
 ---
 
+## 📂 Project Structure
+
+```text
+
+automated-applicant-tracker/
+│
+├─ data/
+│   ├─ applicants.csv
+│   ├─ job_it_support.txt
+│   ├─ resumes/
+│   │   ├─ resume_juan.txt
+│   │   ├─ resume_maria.txt
+│
+├─ src/
+│   ├─ screen_candidate.py      # AI résumé screening engine
+│   ├─ track_applicants.py      # Main automation script
+│
+├─ results/
+│   ├─ applicant_results.json   # Saved evaluations
+│
+├─ requirements.txt
+└─ README.md
+
+```
+
+---
+
+
 ## 🚀 Features
 
 ### ✔ Bulk Applicant Processing  
@@ -57,34 +85,6 @@ You can plug this into:
 - Notion  
 - Google Sheets  
 - ATS systems  
-
----
-
-## 📥 Input Example (applicants.csv)
-
-```csv
-name,email,job_id,resume_file,status
-Juan Dela Cruz,juan@example.com,IT_SUPPORT,resume_juan.txt,New
-Maria Santos,maria@example.com,IT_SUPPORT,resume_maria.txt,New
-
-```
-
-## 📤 Output Example (AI Evaluation JSON)
-
-```json
-{
-  "name": "Juan Dela Cruz",
-  "job_id": "IT_SUPPORT",
-  "score": 82,
-  "summary": "Strong technical foundation with relevant troubleshooting experience...",
-  "strengths": ["IT Support Certificate", "Customer service", "Networking basics"],
-  "gaps": ["Limited enterprise systems experience"],
-  "recommendation": "Good Fit",
-  "status": "Shortlisted"
-}
-
-```
-
 
 ---
 
@@ -120,6 +120,36 @@ Stores results into:
 ---
 
 
+
+## 📥 Input Example (applicants.csv)
+
+```csv
+name,email,job_id,resume_file,status
+Juan Dela Cruz,juan@example.com,IT_SUPPORT,resume_juan.txt,New
+Maria Santos,maria@example.com,IT_SUPPORT,resume_maria.txt,New
+
+```
+
+## 📤 Output Example (AI Evaluation JSON)
+
+```json
+{
+  "name": "Juan Dela Cruz",
+  "job_id": "IT_SUPPORT",
+  "score": 82,
+  "summary": "Strong technical foundation with relevant troubleshooting experience...",
+  "strengths": ["IT Support Certificate", "Customer service", "Networking basics"],
+  "gaps": ["Limited enterprise systems experience"],
+  "recommendation": "Good Fit",
+  "status": "Shortlisted"
+}
+
+```
+
+
+---
+
+
 ## 🛠 Tech Stack
 
 - **Python**  
@@ -131,6 +161,44 @@ Stores results into:
 
 ---
 
+## ⚙️ Setup Instructions
+
+## 1. Clone the repository
+
+```bash
+
+git clone https://github.com/charlotearaneta/automated-applicant-tracker.git
+cd automated-applicant-tracker
+
+```
+
+## 2. Install dependencies
+
+```bash
+
+pip install -r requirements.txt
+
+```
+
+## 3. Add your API key
+
+Create a .env file:
+
+```env
+
+OPENAI_API_KEY=your_key_here
+
+```
+
+## 4. Run the tracker
+
+```bash
+
+python src/track_applicants.py
+
+```
+
+---
 
 ## 🖼 Demo
 
