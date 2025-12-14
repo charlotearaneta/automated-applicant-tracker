@@ -1,1 +1,36 @@
+Job Title: IT Support Officer
+
+Overview:
+We are seeking a reliable and detail-oriented IT Support Officer to provide first-level technical support to internal users. The role involves troubleshooting hardware, software, and network issues, assisting users with IT-related requests, and ensuring smooth day-to-day IT operations.
+
+Key Responsibilities:
+- Provide first-line technical support via email, chat, and in-person
+- Troubleshoot hardware, software, and basic network issues
+- Install, configure, and maintain computers, printers, and peripherals
+- Assist users with account setup, password resets, and access requests
+- Escalate unresolved issues to higher-level support when necessary
+- Maintain accurate documentation of incidents and solutions
+- Support basic network connectivity and troubleshooting
+- Ensure compliance with IT policies and security guidelines
+
+Required Qualifications:
+- Diploma or Bachelor’s degree in IT, Computer Science, or a related field (or equivalent experience)
+- Basic knowledge of computer hardware, operating systems, and networking concepts
+- Familiarity with Windows and macOS environments
+- Strong problem-solving and troubleshooting skills
+- Good communication and customer service skills
+
+Preferred Skills:
+- Experience with IT service desk or technical support roles
+- Knowledge of basic networking (LAN/WAN, TCP/IP, DNS)
+- Familiarity with ticketing systems (e.g., ServiceNow, Jira, Zendesk)
+- Understanding of cybersecurity best practices
+- Ability to work independently and manage multiple tasks
+
+Soft Skills:
+- Clear and professional communication
+- Patience and empathy when assisting users
+- Willingness to learn and adapt to new technologies
+- Strong attention to detail
+- Team-oriented mindset
 
