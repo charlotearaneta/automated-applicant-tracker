@@ -1,0 +1,46 @@
+Name: James Walker
+Email: james.walker@email.com
+Phone: +61 4XX XXX XXX
+Location: Sydney, NSW, Australia
+
+Professional Summary:
+Motivated IT Support professional with a strong foundation in computer systems, troubleshooting, and customer service. Holds a Google IT Support Professional Certificate and has hands-on experience resolving common hardware, software, and connectivity issues. Eager to contribute to a collaborative IT team and continue developing technical skills in a fast-paced environment.
+
+Technical Skills:
+- Computer hardware troubleshooting
+- Windows and macOS operating systems
+- Basic networking concepts (LAN, TCP/IP, DNS)
+- User account setup and password resets
+- Software installation and configuration
+- Basic cybersecurity awareness
+
+Certifications:
+- Google IT Support Professional Certificate
+
+Experience:
+IT Support Intern  
+ABC Solutions | Sydney, NSW  
+June 2023 – December 2023
+- Provided first-level technical support to internal staff via email and chat
+- Assisted with hardware, software, and basic network troubleshooting
+- Helped set up user accounts, devices, and access permissions
+- Documented technical issues and solutions for knowledge base use
+- Escalated complex issues to senior IT staff when required
+
+Customer Service Associate  
+XYZ Retail | Sydney, NSW  
+January 2022 – May 2023
+- Assisted customers with technical and product-related inquiries
+- Resolved issues professionally while maintaining high service standards
+- Developed strong communication, problem-solving, and interpersonal skills
+
+Education:
+Bachelor of Information Technology (Undergraduate)  
+University of Technology Sydney (UTS)  
+2019 – 2022
+
+Additional Information:
+- Strong note-taking and documentation habits
+- Willingness to learn new tools and technologies
+- Comfortable working independently and in team-based environments
+
