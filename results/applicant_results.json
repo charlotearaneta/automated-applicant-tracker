@@ -1,1 +1,41 @@
+[
+  {
+    "name": "James Walker",
+    "email": "james.walker@email.com",
+    "job_id": "IT_SUPPORT",
+    "score": 82,
+    "summary": "James demonstrates a strong foundational skill set for the IT Support role. His experience with troubleshooting, customer support, and basic networking aligns well with the job requirements. He shows clear potential to grow within a technical support environment.",
+    "strengths": [
+      "Google IT Support Professional Certificate",
+      "Hands-on IT troubleshooting experience",
+      "Strong customer service and communication skills",
+      "Understanding of basic networking concepts"
+    ],
+    "gaps": [
+      "Limited exposure to enterprise-level IT systems",
+      "No direct experience with ticketing platforms"
+    ],
+    "recommendation": "Good Fit",
+    "status": "Shortlisted"
+  },
+  {
+    "name": "Emily Thompson",
+    "email": "emily.thompson@email.com",
+    "job_id": "IT_SUPPORT",
+    "score": 64,
+    "summary": "Emily shows a basic understanding of IT concepts and strong customer service skills. While her technical experience is limited, she demonstrates willingness to learn and could develop further with training and mentorship.",
+    "strengths": [
+      "Strong communication and interpersonal skills",
+      "Customer service experience",
+      "Basic computer literacy"
+    ],
+    "gaps": [
+      "Limited hands-on IT troubleshooting experience",
+      "No formal IT certifications",
+      "Minimal exposure to networking concepts"
+    ],
+    "recommendation": "Needs Development",
+    "status": "Screened"
+  }
+]
 
