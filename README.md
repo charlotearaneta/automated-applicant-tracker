@@ -265,7 +265,7 @@ Building this system taught me:
 
 ---
 
-## 🌍 Long-Term Vision
+## 🌍 Long Term Vision
 
 To evolve this into a full **AI-powered Applicant Tracking System (ATS)** with:
 
