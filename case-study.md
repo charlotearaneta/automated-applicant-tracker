@@ -156,4 +156,4 @@ The tool supports recruiters by handling repetitive tasks, allowing them to focu
 
 🌐 Portfolio: https://charlotearaneta.github.io
 
-
+---
