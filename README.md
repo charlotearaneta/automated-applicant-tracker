@@ -125,8 +125,8 @@ Stores results into:
 
 ```csv
 name,email,job_id,resume_file,status
-Juan Dela Cruz,juan@example.com,IT_SUPPORT,resume_juan.txt,New
-Maria Santos,maria@example.com,IT_SUPPORT,resume_maria.txt,New
+James Walker,james.walker@email.com,IT_SUPPORT,resume_james_walker.txt,New
+Emily Thompson,emily.thompson@email.com,IT_SUPPORT,resume_emily_thompson.txt,New
 
 ```
 
@@ -134,12 +134,20 @@ Maria Santos,maria@example.com,IT_SUPPORT,resume_maria.txt,New
 
 ```json
 {
-  "name": "Juan Dela Cruz",
+  "name": "James Walker",
   "job_id": "IT_SUPPORT",
   "score": 82,
-  "summary": "Strong technical foundation with relevant troubleshooting experience...",
-  "strengths": ["IT Support Certificate", "Customer service", "Networking basics"],
-  "gaps": ["Limited enterprise systems experience"],
+  "summary": "James demonstrates a strong technical foundation with relevant troubleshooting experience and customer support skills. His background aligns well with the core requirements of an IT Support role, and he shows clear potential for growth in a professional IT environment.",
+  "strengths": [
+    "Google IT Support Professional Certificate",
+    "Hands-on IT troubleshooting experience",
+    "Strong customer service and communication skills",
+    "Basic networking knowledge"
+  ],
+  "gaps": [
+    "Limited exposure to enterprise-level IT systems",
+    "No direct experience with ticketing platforms"
+  ],
   "recommendation": "Good Fit",
   "status": "Shortlisted"
 }
