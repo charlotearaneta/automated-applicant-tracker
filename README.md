@@ -39,8 +39,8 @@ automated-applicant-tracker/
 │   ├─ applicants.csv
 │   ├─ job_it_support.txt
 │   ├─ resumes/
-│   │   ├─ resume_juan.txt
-│   │   ├─ resume_maria.txt
+│   │   ├─ resume_james.txt
+│   │   ├─ resume_emily.txt
 │
 ├─ src/
 │   ├─ screen_candidate.py      # AI résumé screening engine
@@ -221,7 +221,7 @@ python src/track_applicants.py
 
 ## 🗺 Roadmap
 
-### **Phase 1 — MVP (Current)**  
+### **Phase 1 — MVP**  
 - AI résumé evaluation  
 - Bulk applicant screening  
 - CSV + JSON output  
