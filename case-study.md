@@ -20,7 +20,7 @@ By processing applicants in bulk using Python and OpenAI models, the tracker sig
 
 ## 2. Problem Statement
 
-Traditional résumé screening is one of the most time-consuming and inconsistent parts of recruitment. HR teams face challenges such as:
+Traditional résumé screening is one of the most time consuming and inconsistent parts of recruitment. HR teams face challenges such as:
 
 - High volume of applicants  
 - Manual and repetitive screening tasks  
@@ -46,13 +46,13 @@ To develop a lightweight, scalable system that:
 - Produces structured output for reporting  
 - Standardizes the first-round screening process  
 
-The goal is not to replace HR professionals, but to **augment** their decision-making and help them allocate their time more strategically.
+The goal is not to replace HR professionals, but to **augment** their decision making and help them allocate their time more strategically.
 
 ---
 
 ## 4. Solution Overview
 
-The Automated Applicant Tracker is a modular HR-Tech tool that uses:
+The Automated Applicant Tracker is a modular HR Tech tool that uses:
 
 - CSV-based applicant pipeline  
 - Role-specific job descriptions  
@@ -144,8 +144,8 @@ Clear JSON specifications increased reliability and consistency.
 ### ✔ How to design modular HR-Tech systems  
 Separating data, screening logic, and business rules ensures maintainability.
 
-### ✔ How automation can enhance—not replace—human HR judgment  
-The tool supports recruiters by handling repetitive tasks, allowing them to focus on human interaction and strategic decision-making.
+### ✔ How automation can enhance not replace human HR judgment  
+The tool supports recruiters by handling repetitive tasks, allowing them to focus on human interaction and strategic decision making.
 
 ---
 
