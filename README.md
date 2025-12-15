@@ -50,7 +50,8 @@ automated-applicant-tracker/
 │   ├─ applicant_results.json   # Saved evaluations
 │
 ├─ requirements.txt
-└─ README.md
+├─ README.md
+└─ case-study.md
 
 ```
 
