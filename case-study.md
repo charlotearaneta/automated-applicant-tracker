@@ -27,7 +27,7 @@ Traditional résumé screening is one of the most time consuming and inconsisten
 - Human fatigue and bias  
 - Lack of structured evaluation frameworks  
 - Slow time-to-shortlist  
-- Inconsistent decision-making across recruiters  
+- Inconsistent decision making across recruiters  
 
 Small teams and early-stage companies often struggle even more due to limited hiring infrastructure and resources.
 
