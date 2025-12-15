@@ -1,6 +1,6 @@
 # 🎯 Automated Applicant Tracker 
 
-A lightweight HR-Tech system that automatically screens candidates, scores résumés, updates applicant statuses, and generates structured evaluations using AI.
+A lightweight HR Tech system that automatically screens candidates, scores résumés, updates applicant statuses, and generates structured evaluations using AI.
 
 This project combines my **HR background** with **Python automation** and **AI résumé screening**, creating a practical tool that helps recruiters streamline candidate screening and improve hiring decisions.
 
@@ -11,7 +11,7 @@ This project combines my **HR background** with **Python automation** and **AI r
 The Automated Applicant Tracker processes applicants in bulk using:
 
 - A **CSV file** containing applicant details  
-- **Role-specific job descriptions**  
+- **Role specific job descriptions**  
 - Individual **résumé files**  
 - An **AI-powered résumé evaluation engine**
 
