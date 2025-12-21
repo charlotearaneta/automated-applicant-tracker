@@ -1,5 +1,4 @@
 # 🧩 Case Study: Automated Applicant Tracker 
-## Case Study  
 ### *A Human-Centered HR Tech Innovation for Faster, Fairer, and Data-Driven Hiring*
 
 This case study explores the design and development of an AI-powered Automated Applicant Tracker that streamlines résumé screening and applicant management. Built at the intersection of HR expertise, Python automation, and AI, the system evaluates candidates in bulk, assigns objective match scores, updates applicant statuses, and produces structured insights for recruitment decision making.
