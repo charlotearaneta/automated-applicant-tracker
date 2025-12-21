@@ -1,4 +1,5 @@
 # 🎯 Automated Applicant Tracker 
+### *Automated applicant tracking and résumé screening using Python + AI*
 
 A lightweight HR Tech system that automatically screens candidates, scores résumés, updates applicant statuses, and generates structured evaluations using AI.
 
